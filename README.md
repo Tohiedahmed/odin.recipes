@@ -1,1 +1,2 @@
 # odin.recipes
+Hello readers, so i started the odin project about a week ago to master in web development. I started with the basics of computer to complexions to how web works to how internet works to how we communicate with others to any part of the world. After that i learned HTML basics and how to write HTML boilerplate. Then I learned different different tags, elements and attributes. 
